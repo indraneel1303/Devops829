@@ -255,5 +255,8 @@ maven installation
 command to ceate diectoies
 :
 mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+-----------------------------------------
+Installting the git on ubuntu
 
+apt-get install git
 
